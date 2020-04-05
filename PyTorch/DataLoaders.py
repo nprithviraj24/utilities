@@ -10,7 +10,7 @@ import torchvision.transforms as transforms
 
 def get_data_loader(image_type,  **kwargs):
 
-    """Returns training and test data loaders for a given image type, either 'summer' or 'winter'.
+    """Returns training and test data loaders for a given image type
        These images will be resized to 128x128x3, by default, converted into Tensors, and normalized.
     """
     # Generic Transforms: Append these into transforms.
