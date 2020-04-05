@@ -1,0 +1,36 @@
+[2020-03-12 17:08] Combine multiple commands:
+- A ; B  - Run A and then B, regardless of the success or failure of A
+ - A && B - Run B only if A succeeded
+ - A || B - Run B onli if A failed
+
+[2020-03-12 17:21] Shell variables: @prompt-statements: PS
+- PS1: environment variable which contains the value of the default prompt. It changes the shell command prompt appearance and environment.
+- PS2: environment variable which contains the value the prompt used for a command continuation interpretation. You see it when you write a long command in many lines.
+- PS3: environment variable which contains the value of the prompt for the select operator inside the shell script.
+- PS4: environment variable which contains the value of the prompt used to show script lines during the execution of a bash script in debug mode.
+
+[2020-03-17 11:26] @alias
+created a @alias command for @clear
+alias c="clear"
+
+[2020-03-17 11:27] @who command
+lets you know who logged into system.
+man who : for more
+
+[2020-03-17 11:46] @shuf randomly selectes a line from a text file and displays it.
+man shuf: for more!
+
+[2020-03-17 11:52] A @daemon aka background processes
+- Its a program that runs in the background. Almost all daemons have names that end with the letter "d". 
+	- httpd: daemon that handles the Apache server
+	- sshd: handles SSH remote access connections.
+Linux often start daemons at boot time.
+
+[2020-04-04 10:55] @list all files
+ls -R /tmp/folder > filename1
+
+It lists all the files and folders of folder (/tmp/folder) to filename1
+
+List directories inside a file?
+
+ls -R /tmp | grep /DIV2k
