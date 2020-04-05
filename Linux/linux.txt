@@ -34,3 +34,22 @@ It lists all the files and folders of folder (/tmp/folder) to filename1
 List directories inside a file?
 
 ls -R /tmp | grep /DIV2k
+
+[2020-04-05 14:19] @random @shuf
+Randomly copy certain amount of fukes from one directory to another:
+
+
+find /some/dir/ -type f -name "*.jpg" -print0 | xargs -0 shuf -e -n 8 -z | xargs -0 cp -vt /target/dir/
+
+[2020-04-05 14:25] @number of files inside a directory
+ls -1 | wc -l
+
+Which means: ls: list files in dir
+
+-1: (that's a ONE) only one entry per line. Change it to -1a if you want hidden files too
+
+|: pipe output onto...
+
+wc: "wordcount"
+
+-l: count lines.
