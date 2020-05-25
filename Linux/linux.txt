@@ -53,3 +53,30 @@ Which means: ls: list files in dir
 wc: "wordcount"
 
 -l: count lines.
+
+[2020-04-25 18:40] List directory command hacks: @ls
+-list all the folders inside a folder
+ls <folder_name>
+	example:  ls bin
+
+- list all the folders with size in KB
+ls -s Documents
+
+- list all the folders with human readable size
+ls -s -h Documents
+or
+ls -sh Documents
+
+- list all the folders and files to be displayed on its own line
+ls -s -h -1 bin
+or
+ls --size --human_readable -1 Documents
+
+@command 
+Takeaway: A typical command has
+<Prompt> : <Command> <Options> <Argument>
+
+[2020-05-03 21:51] @ffmpeg
+Command for slow framerate per second, and a pattern type:
+
+ffmpeg -f image2 -pattern_type glob -i '*.jpg' -vcodec mpeg4 -vf "setpts=5*PTS" demo.avi
