@@ -5,55 +5,51 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 ### Blogs, Websites, Youtube Channels
 
-##### Updates
+#### Updates
 
-- [Deep Learning Monitor](https://deeplearn.org/)
-- [Machine Learning Subreddit](https://www.reddit.com/r/machinelearning)
-- [Hacker News](https://news.ycombinator.com/)
+| [Deep Learning Monitor](https://deeplearn.org/) | [Machine Learning Subreddit](https://www.reddit.com/r/machinelearning) | [Hacker News](https://news.ycombinator.com/) |
+| :------ | :------ | :------ |
+#### Math
 
-##### Math
-
-- [Grant Sanderson](https://www.3blue1brown.com/about)
-- [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg)
-- [Prof Rob](https://www.profrobbob.com/)
-- [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html)
-
-- Probability and Statistics
-	- [Visualizing Intro to Prob&Stats](https://seeing-theory.brown.edu/)
-	- [Count Bayesie](https://www.countbayesie.com/)
-	- [Random Services](http://www.randomservices.org/random/index.html)
-
-- Topology and Manifolds
-	- [Introduction from Colah's Blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
-	- [BoundedRationality Blog on Manifolds](http://bjlkeng.github.io/posts/manifolds/)
-	Advanced:
-	- [Allen Hatcher's Page](http://pi.math.cornell.edu/~hatcher/)
-	- [TOPOLOGY WITHOUT TEARS (Book) ](http://www.topologywithouttears.net/topbook.pdf)
-
-##### Digital Magazines
+| [Grant Sanderson](https://www.3blue1brown.com/about) | [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | [Prof Rob](https://www.profrobbob.com/) | [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html) |
+| :------ | :------ | :------ | :------ |
 
 
-- [Distill](https://distill.pub/)
-- [Gradient](https://thegradient.pub/)
-- [Colah?](https://colah.github.io/about.html)
+<strong>Probability and Statistics</strong>
 
-##### Blogs
+| [Visualizing Intro to Prob&Stats](https://seeing-theory.brown.edu/) | [Count Bayesie](https://www.countbayesie.com/) | [Random Services](http://www.randomservices.org/random/index.html) |
+| :------ | :------ | :------ |
 
-- [inFERENCe](https://www.inference.vc/)
-- [Off the Convex Path](https://www.offconvex.org/about/)
-- [explained.ai](https://explained.ai/)
-- [Bounded Rationality](http://bjlkeng.github.io/)
-- [Agustinus Kristladi's Tech Blog](https://wiseodd.github.io/techblog/)
-- [Henry Labs](https://www.henryailabs.com/)
+
+<strong>Topology and Manifolds </strong>
+
+| [Introduction from Colah's Blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) | [BoundedRationality Blog on Manifolds](http://bjlkeng.github.io/posts/manifolds/) | [Allen Hatcher's Page](http://pi.math.cornell.edu/~hatcher/) | [TOPOLOGY WITHOUT TEARS (Book) ](http://www.topologywithouttears.net/topbook.pdf) |
+| :------ | :------ | :------ | :------ |
+
+#### Digital Magazines
+
+
+| [Distill](https://distill.pub/) | [Gradient](https://thegradient.pub/) | [Colah?](https://colah.github.io/about.html)
+| :------ | :------ | :------ |
+
+
+#### Blogs
+
+| [inFERENCe](https://www.inference.vc/) | [Off the Convex Path](https://www.offconvex.org/about/) | [explained.ai](https://explained.ai/) | [Bounded Rationality](http://bjlkeng.github.io/) |
+| :------ | :------ | :------ | :------ |  
+
+
+| [Agustinus Kristladi's Tech Blog](https://wiseodd.github.io/techblog/) | [Henry Labs](https://www.henryailabs.com/) |
+| :------ | :------ |
+
 <!-- - [Depth First Learning](https://www.depthfirstlearning.com/) -->
 
-##### Resource
+#### Resource
 
-- [Dive into Deep Learning](http://d2l.ai/)
-- [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+| [Dive into Deep Learning](http://d2l.ai/) | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) |
+| :------ | :------ |
 
-
-###### On a Specific Subject
+##### On a Specific Subject
 
 
 <strong>Courses</strong>
