@@ -3,13 +3,23 @@
 PyTorch, Python utility functions, loaders, classes etc.
 
 
-### Blogs, Websites, Youtube Channels
+## Blogs, Websites, Tools, Youtube Channels and other Resources
 
-#### Updates
+
+This md file is inspired from [BAILOOL's repo](https://github.com/BAILOOL/DoYouEvenLearn).
+
+
+### Updates
 
 | [Deep Learning Monitor](https://deeplearn.org/) | [Machine Learning Subreddit](https://www.reddit.com/r/machinelearning) | [Hacker News](https://news.ycombinator.com/) |
 | :------ | :------ | :------ |
-#### Math
+
+### Tools
+
+| [PyTorch Lightning](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538) | [Torch-fidelity](https://github.com/toshas/torch-fidelity) | [Kornia](https://github.com/kornia/kornia) | [JAX](https://github.com/google/jax) | [SOLT: Data augmentation in PyTorch](https://github.com/MIPT-Oulu/solt) |
+| :------ | :------ | :------ | :------ | :------ |
+
+### Math
 
 | [Grant Sanderson](https://www.3blue1brown.com/about) | [Professor Leonard](https://www.youtube.com/channel/UCoHhuummRZaIVX7bD4t2czg) | [Prof Rob](https://www.profrobbob.com/) | [Contemporary Calculus](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html) |
 | :------ | :------ | :------ | :------ |
@@ -26,14 +36,14 @@ PyTorch, Python utility functions, loaders, classes etc.
 | [Introduction from Colah's Blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) | [BoundedRationality Blog on Manifolds](http://bjlkeng.github.io/posts/manifolds/) | [Allen Hatcher's Page](http://pi.math.cornell.edu/~hatcher/) | [TOPOLOGY WITHOUT TEARS (Book) ](http://www.topologywithouttears.net/topbook.pdf) |
 | :------ | :------ | :------ | :------ |
 
-#### Digital Magazines
+### Digital Magazines
 
 
 | [Distill](https://distill.pub/) | [Gradient](https://thegradient.pub/) | [Colah?](https://colah.github.io/about.html)
 | :------ | :------ | :------ |
 
 
-#### Blogs
+### Blogs
 
 | [inFERENCe](https://www.inference.vc/) | [Off the Convex Path](https://www.offconvex.org/about/) | [explained.ai](https://explained.ai/) | [Bounded Rationality](http://bjlkeng.github.io/) |
 | :------ | :------ | :------ | :------ |  
@@ -44,13 +54,10 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 <!-- - [Depth First Learning](https://www.depthfirstlearning.com/) -->
 
-#### Resource
+### Resources
 
-| [Dive into Deep Learning](http://d2l.ai/) | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) |
-| :------ | :------ |
-
-##### On a Specific Subject
-
+| [Advanced ML](https://github.com/luspr/awesome-ml-courses) | [Dive into Deep Learning](http://d2l.ai/) | [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/) | [Model Zoo](https://modelzoo.co/)
+| :------ | :------ | :------ | :------ |
 
 <strong>Courses</strong>
 
@@ -68,10 +75,22 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 <break />
 
+
+### On a Specific Subject
+
+
 <strong>Theory of Deep Learning</strong>
 
-| [Toward theoretical understanding of DL](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html) | [Divergence Minimization](https://colinraffel.com/blog/gans-and-divergence-minimization.html) | [Knowledge Distillation](https://blog.floydhub.com/knowledge-distillation/) | [Triplet Loss](https://omoindrot.github.io/triplet-loss) | [Optimal Transport](https://sites.google.com/view/otml2019/) | [Wasserstein GAN](https://www.depthfirstlearning.com/2019/WassersteinGAN)
+| [Toward theoretical understanding of DL](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html) | [Divergence Minimization](https://colinraffel.com/blog/gans-and-divergence-minimization.html) | [Knowledge Distillation](https://blog.floydhub.com/knowledge-distillation/) | [Triplet Loss](https://omoindrot.github.io/triplet-loss) | [Optimal Transport](https://sites.google.com/view/otml2019/) | [Kantorovich-Rubinstein Duality](https://vincentherrmann.github.io/blog/wasserstein/) |
 | :------ | :------ | :------ | :------ | :------ | :------ |
+
+
+Transfer Learning
+
+| [CS231]( http://cs231n.github.io/transfer-learning/) | [Medium](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a) |
+| :------ | :------ |
+
+
 
 <break />
 
@@ -93,8 +112,8 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 <strong>Machine Translation</strong>
 
-| [Sequence models](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) |
-| :------ | :------ |
+| [Sequence models](http://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) | [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) | [Attention and Memory](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+| :------ | :------ | :------ |
 
 <break />
 
@@ -105,10 +124,14 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 <break />
 
-<strong>GAN</strong>
+<strong>Generative Models</strong>
 
-| [Notes on exploring StyleGAN v2](https://towardsdatascience.com/stylegan-v2-notes-on-training-and-latent-space-exploration-e51cf96584b3) | [GANs](https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets), [Wasserstein GAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) |
-| :------ | :------ |
+| [Notes on exploring StyleGAN v2](https://towardsdatascience.com/stylegan-v2-notes-on-training-and-latent-space-exploration-e51cf96584b3) | [GANs](https://adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets), [Wasserstein GAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) | [GANILLA](https://github.com/giddyyupp/ganilla) | BigGAN?
+| :------ | :------ | :------ | :------ |
+
+| [MGAN](https://openreview.net/pdf?id=rkmu5b0a-) | [Interpolation with Generative Models](https://towardsdatascience.com/interpolation-with-generative-models-eb7d288294c) | [Style Transfer Losses](https://github.com/ceshine/fast-neural-style/blob/201707/style-transfer.ipynb) | [Theory of Spectral Normalisation](https://christiancosgrove.com/blog/2018/01/04/spectral-normalization-explained.html)
+| :------ | :------ | :------ | :------ |
+
 
 <strong>Super-resolution</strong>
 
@@ -120,6 +143,7 @@ PyTorch, Python utility functions, loaders, classes etc.
 
 | [Literature](https://msiam.github.io/Few-Shot-Learning/) | [Literature 2: Advances](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d) | [Siamese Neural Networks (PyTorch)](https://innovationincubator.com/siamese-neural-network-with-pytorch-code-example/) | [Metric Learning](https://slides.com/asanakoy/metric-learning-kaggle-whales#/) |
 | :------ | :------ | :------ | :------ |
+| Project: [Realistic Neural Talking Head Models]( https://github.com/vincent-thevenin/Realistic-Neural-Talking-Head-Models) |
 
 <break />
 
@@ -143,6 +167,8 @@ PyTorch, Python utility functions, loaders, classes etc.
 | [Shell](https://blog.balthazar-rouberol.com/) | [SSH](http://matt.might.net/articles/ssh-hacks/) | [Numpy <-> PyTorch](https://github.com/wkentaro/pytorch-for-numpy-users)
 | :------ | :------ | :------ |
 
-##### ML schools
+
+
+### ML schools
 
 - [EEML](https://www.eeml.eu/home)
