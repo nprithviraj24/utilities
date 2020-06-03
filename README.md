@@ -11,8 +11,12 @@ This md file is inspired from [BAILOOL's repo](https://github.com/BAILOOL/DoYouE
 
 ### Updates
 
-| [Deep Learning Monitor](https://deeplearn.org/) | [Machine Learning Subreddit](https://www.reddit.com/r/machinelearning) | [Hacker News](https://news.ycombinator.com/) |
+| [arxiv-sanity](http://www.arxiv-sanity.com/) |  [arxivist](https://arxivist.com/) | [nlp-playground](https://notebooks.quantumstat.com/)
 | :------ | :------ | :------ |
+
+[Deep Learning Monitor](https://deeplearn.org/) | [Machine Learning Subreddit](https://www.reddit.com/r/machinelearning) | [Hacker News](https://news.ycombinator.com/) |
+| :------ | :------ | :------ |
+
 
 ### Tools
 
