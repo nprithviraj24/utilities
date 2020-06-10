@@ -11,6 +11,10 @@ This md file is inspired from [BAILOOL's repo](https://github.com/BAILOOL/DoYouE
 
 ### Updates
 
+| [connected-papers](https://www.connectedpapers.com/) |
+| :------ |
+
+
 | [arxiv-sanity](http://www.arxiv-sanity.com/) |  [arxivist](https://arxivist.com/) | [nlp-playground](https://notebooks.quantumstat.com/)
 | :------ | :------ | :------ |
 
