@@ -24,8 +24,8 @@ This md file is inspired from [BAILOOL's repo](https://github.com/BAILOOL/DoYouE
 
 ### Tools
 
-| [PyTorch Lightning](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538) | [Torch-fidelity](https://github.com/toshas/torch-fidelity) | [Kornia](https://github.com/kornia/kornia) | [JAX](https://github.com/google/jax) | [SOLT: Data augmentation in PyTorch](https://github.com/MIPT-Oulu/solt) |
-| :------ | :------ | :------ | :------ | :------ |
+| Numba | Ray | [PyTorch Lightning](https://towardsdatascience.com/how-to-refactor-your-pytorch-code-to-get-these-42-benefits-of-pytorch-lighting-6fdd0dc97538) | [Torch-fidelity](https://github.com/toshas/torch-fidelity) | [Kornia](https://github.com/kornia/kornia) | [JAX](https://github.com/google/jax) | [SOLT: Data augmentation in PyTorch](https://github.com/MIPT-Oulu/solt) |
+| :------ | :------ | :------ | :------ | :------ | :------ | :------ |
 
 ### Math
 
